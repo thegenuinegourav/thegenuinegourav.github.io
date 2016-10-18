@@ -1,0 +1,58 @@
+@media (min-width: 1085px) {
+  .marginForScreen {
+  margin-top:25px;
+  margin-left:100px; 
+  margin-right:100px;
+}
+}
+
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+ }
+    
+
+
+.intro-headings-color {
+  color: white;
+}
+
+footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+}
+
+.headings {
+    	font-family: 'Pacifico', cursive;
+    }
+
+body {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.contents {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 75px;
+    height: 75px;
+    padding-top: 0;
+}
+
+hr {
+  height: 10px;
+  border: 0;
+  box-shadow: 0 10px 10px -10px #8c8c8c inset;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .progress-label-text {
+ 	font-family: 'Quicksand', sans-serif;
+ }
