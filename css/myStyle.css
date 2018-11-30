@@ -4,7 +4,7 @@
   margin-left:100px; 
   margin-right:100px;
 }
-}
+
 
 .navbar {
       margin-bottom: 0;
@@ -81,4 +81,11 @@ hr {
   width: 15px;
   background-color: #fff;
   display: inline-block;
+  
+}
+
+@media only screen and (max-width: 1026px) {
+    #fadeshow {
+        display: none;
+    }
 }
