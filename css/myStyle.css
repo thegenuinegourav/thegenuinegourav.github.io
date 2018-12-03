@@ -64,8 +64,8 @@ hr {
   border-radius: 50%;
   display: inline-block;
   position: fixed;
-  left: 49.2%;
-  top: 35%;
+  left: 49.1%;
+  top: 38%;
 }
 
 .vl {
@@ -73,7 +73,7 @@ hr {
     height: 1600px;
     position: absolute;
     left: 49.8%;
-    top: 30%;
+    top: 33%;
 }
 
 @media only screen and (max-width: 1026px) {
