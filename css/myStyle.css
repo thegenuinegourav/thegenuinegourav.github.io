@@ -3,13 +3,15 @@
   margin-top:25px;
   margin-left:100px; 
   margin-right:100px;
-  }
+}
 }
 
 .navbar {
       margin-bottom: 0;
       border-radius: 0;
  }
+    
+
 
 .intro-headings-color {
   color: white;
@@ -58,27 +60,20 @@ hr {
 .dot {
   height: 25px;
   width: 25px;
-  background-color: #191919;
+  background-color: #000000;
   border-radius: 50%;
   display: inline-block;
   position: fixed;
-  left: 49.1%;
-  top: 40%;
+  left: 49.2%;
+  top: 35%;
 }
 
 .vl {
-    border-left: 6px solid #191919;
-    height: 1550px;
+    border-left: 6px solid black;
+    height: 1600px;
     position: absolute;
     left: 49.8%;
-    top: 33%;
-}
-
-.comp_dot {
-  height: 15px;
-  width: 15px;
-  background-color: #fff;
-  display: inline-block;
+    top: 30%;
 }
 
 @media only screen and (max-width: 1026px) {
