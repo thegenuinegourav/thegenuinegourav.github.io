@@ -1,7 +1,7 @@
 @media (min-width: 1085px) {
   .marginForScreen {
   margin-top:25px;
-  margin-left:100px; 
+  margin-left:100px;
   margin-right:100px;
 }
 }
@@ -10,7 +10,7 @@
       margin-bottom: 0;
       border-radius: 0;
  }
-    
+
 
 
 .intro-headings-color {
@@ -65,12 +65,12 @@ hr {
   display: inline-block;
   position: fixed;
   left: 49.1%;
-  top: 38%;
+  top: 37.5%;
 }
 
 .vl {
     border-left: 6px solid black;
-    height: 1600px;
+    height: 2000px;
     position: absolute;
     left: 49.8%;
     top: 33%;
