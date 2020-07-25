@@ -81,3 +81,40 @@ hr {
         display: none;
     }
 }
+
+.portfoliov2button {
+  border: none;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: 'Pacifico'
+  line-height: 75px;
+  height: 75px;
+  padding-top: 0;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  -webkit-animation: glowing 1500ms infinite;
+  -moz-animation: glowing 1500ms infinite;
+  -o-animation: glowing 1500ms infinite;
+  animation: glowing 1500ms infinite;
+}
+@-webkit-keyframes glowing {
+  0% { background-color: #222222; -webkit-box-shadow: 0 0 3px #222222; }
+  50% { background-color: #000; -webkit-box-shadow: 0 0 40px #000; }
+  100% { background-color: #222222; -webkit-box-shadow: 0 0 3px #222222; }
+}
+@-moz-keyframes glowing {
+  0% { background-color: #222222; -moz-box-shadow: 0 0 3px #222222; }
+  50% { background-color: #000; -moz-box-shadow: 0 0 40px #000; }
+  100% { background-color: #222222; -moz-box-shadow: 0 0 3px #222222; }
+}
+@-o-keyframes glowing {
+  0% { background-color: #222222; box-shadow: 0 0 3px #222222; }
+  50% { background-color: #000; box-shadow: 0 0 40px #000; }
+  100% { background-color: #222222; box-shadow: 0 0 3px #222222; }
+}
+@keyframes glowing {
+  0% { background-color: #222222; box-shadow: 0 0 3px #222222; }
+  50% { background-color: #000; box-shadow: 0 0 40px #000; }
+  100% { background-color: #222222; box-shadow: 0 0 3px #222222; }
+}
